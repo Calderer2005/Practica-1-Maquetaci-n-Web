@@ -1,0 +1,102 @@
+<!DOCTYPE>
+</html>
+
+	<head>
+	<tittle> miércoles </tittle>
+	</head>	
+	<body>
+	<header>	
+		<nav>	
+			<ul>
+			<li> a href= "" </a>
+			<li> a href= "Subscribéte ahora" </a>
+			<li> a href= "iniciar sesion" </a>
+			<li> películas y series listadas>
+			</ul>
+		</nav>
+
+<main>
+	<section>
+		<img src=""/>
+		<div>
+			<img src=""/>
+			<h1>Miércoles</h1>
+			<p>----------->/p>
+			<p>----------->/p>
+			
+			</div>	
+			</section>
+				<hr> 
+				<p>----------->/p>
+				</hr>
+				<section>		
+			
+					<h2> Vídeos | Miércoles </h2>
+					<img src=""/>
+					<figcaption> Temporada 1 (avance 1) </figcaption>
+					<img src=""/>
+					<figcaption> Temporada 1 (avance 2) </figcaption>
+					<img src=""/>
+					<figcaption> Esta temporada en: Merlina (Temporada 1) </figcaption>
+				</section>
+				
+						<section>
+							<div>
+							<h3> Episodios | Miércoles </h3>
+							<span> Temporada 1 </span>
+							
+							<p>-------------</p>
+							<span> Año de estreno 2022 </span>
+						
+								<ol>
+									<div>
+									<article> 
+										<li> <href>="" </a> </li>
+										<li> <hr> 1.Los miércoles son tristes </hr> </li>
+										<li> <p>------------------------------</p> </li>
+									</article>
+									</div>
+										
+										<div>										
+										<article> 
+										<li> <href>="" </a> </li>
+											<li> <hr> 2.La tristeza es solitaria </hr> </li>
+											<li> <p>------------------------------</p> </li>
+										</article>
+								
+						  			<div>
+
+											<section>
+												<h4> Más detalles </h4>
+												<ul>
+													<li> -------------</li>
+													<li> --------------</li>
+													<li> -------------</li>
+													<li> -------------</li>
+													<li> -------------</li>
+									
+									</div>
+										</section>
+											<section>
+											<div>
+												<h5> Similares </h5>
+												<href="" </a>
+												<href="" </a>	
+												<href="" </a>
+												<href="" </a>
+												<href="" </a>
+												<href="" </a>
+												<href="" </a>
+	
+									
+
+
+											</div>
+											</section>
+</main>
+
+
+		
+<footer>
+</body>
+</html>

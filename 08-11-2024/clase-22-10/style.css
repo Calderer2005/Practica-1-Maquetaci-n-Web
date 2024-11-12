@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+section{
+    background-color: rgb(126, 126, 255);
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-items: center;
+}
+div{
+    width: 30%;
+    background-color: tomato;
+    padding: 50px;
+    border: 2px solid black;
+}
+a{
+    background-color: black;
+    border: 2px solid whitesmoke;
+    color: whitesmoke;
+    text-decoration: none;
+    display: inline-block;
+    padding: 15px 25px 10px 25px;
+    margin-top: 15px;
+ /* margin-bottom: ;
+    margin-left: ;
+    margin-right: ; */
+}

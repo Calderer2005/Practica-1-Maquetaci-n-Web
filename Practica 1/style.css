@@ -1,0 +1,31 @@
+@import url();
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    position:sticky;
+    background-color: rgb(102, 40, 40);
+}
+header nav div img{
+    width: 80%;
+}
+nav{
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+header nav ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    width: 40%;
+}
+nav ul a{
+    text-decoration: none;
+    font-size: 20px;
+    color: whitesmoke;
+}

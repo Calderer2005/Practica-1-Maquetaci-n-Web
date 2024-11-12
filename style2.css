@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: rgb(183, 29, 29);
+    padding: 10px 0;
+}
+nav{
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#logo{
+    width: 20%;
+}
+img{
+    max-width: 100%;
+}
+header nav ul{
+    width: 35%;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+nav ul a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+.boton{
+    border: 1px solid white;
+    padding: 5px 10px;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+section#banner{
+    background: url("./img/fondu.jpg");
+    background-size: cover;
+    height: 85vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#banner > div{
+    width: 60%;
+    text-align: center;
+}
+#banner h1{
+    font-size: 90px;
+    color: white;
+    font-family: "Press Start 2P", system-ui;
+}
+h2,h3{
+    font-family: "Press Start 2P", system-ui;
+}
+#banner p{
+    color: white;
+}
+#banner .boton{
+    display: inline-block;
+    margin-top: 10px;
+}
+section#poke{
+    width: 80%;
+    margin: 25px auto;
+}
+#poke > div{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+#poke article{
+    width: 30%;
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+    margin: 10px 0;
+}
+article > div span{
+    display: inline-block;
+    padding: 5px;
+    margin: 3px;
+    color: white;
+}
+.planta{
+    background-color: green;
+}
+.veneno{
+    background-color: blueviolet;
+}
+#poke .boton{
+    border: 1px solid black;
+    color: black;
+    display: inline-block;
+}
+#poke > a{
+    color: black;
+}
+footer{
+    background-color:  rgb(183, 29, 29);
+    padding: 10px 0 ;
+
+}
+footer div {
+    width: 80%;
+    margin: auto;
+}
+footer div form {
+    margin: 10px 0;
+   
+}
+
+footer div p {
+    margin-top: 10px;
+}
+
+footer input[type=text]  {
+    width: 40%;
+    padding: 5px;
+
+}
+footer input[type=submit]  {
+    width: 15%;
+
+}
+footer form {
+    display: flex;
+    justify-content: space-between;
+}
